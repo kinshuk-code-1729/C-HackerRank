@@ -10,6 +10,13 @@
 - *Since 2000, C has consistently ranked among the top two languages in the TIOBE index, a measure of the popularity of programming languages.*
 
 # ✨ About HackerRank 📈 :
+
+<div align="center">
+  
+  ![image](https://github.com/kinshuk-code-1729/HackerRank-SQL-Solutions/assets/90320839/cbd55382-02c3-4006-bd3f-8ad7c184e95b)
+
+</div>
+
 ![image](https://user-images.githubusercontent.com/90320839/197406885-eb1d4898-f95b-4079-9f99-c6a411a80ca4.png)
 
 - **HackerRank, a coding-based technical skills and assessment platform, is one of the many tools used by Goldman Sachs to assess candidates for roles within Engineering.**
